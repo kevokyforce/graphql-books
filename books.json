@@ -1,0 +1,114 @@
+[
+  {
+      "title": "A Color of His Own",
+      "author": "Leo Lionni",
+      "pages": [
+          {
+              "pageIndex": 0,
+              "content": "Parrots are green",
+              "tokens": [
+                  {
+                      "position": [
+                          0,
+                          7
+                      ],
+                      "value": "parrots"
+                  },
+                  {
+                      "position": [
+                          8,
+                          11
+                      ],
+                      "value": "are"
+                  },
+                  {
+                      "position": [
+                          12,
+                          17
+                      ],
+                      "value": "green"
+                  }
+              ]
+          },
+          {
+              "pageIndex": 1,
+              "content": "goldfish are red",
+              "tokens": [
+                  {
+                      "position": [
+                          0,
+                          8
+                      ],
+                      "value": "goldfish"
+                  },
+                  {
+                      "position": [
+                          9,
+                          12
+                      ],
+                      "value": "are"
+                  },
+                  {
+                      "position": [
+                          13,
+                          16
+                      ],
+                      "value": "red"
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "title": "Fishing in the Air",
+      "author": "Sharon Creech",
+      "pages": [
+          {
+              "pageIndex": 0,
+              "content": "",
+              "tokens": []
+          },
+          {
+              "pageIndex": 1,
+              "content": "One Saturday, when I was young, my father and I left the house early in the morning, when it was still blue-black outside. The grass left wet marks on our shoes. In the backyard, under stones, we dug up crawly worms and laid them in a can with lumps of damp dirt.",
+              "tokens": [
+                  {
+                      "value": "one",
+                      "position": [
+                          0,
+                          3
+                      ]
+                  },
+                  {
+                      "value": "saturday",
+                      "position": [
+                          4,
+                          12
+                      ]
+                  },
+                  {
+                      "value": "when",
+                      "position": [
+                          14,
+                          18
+                      ]
+                  },
+                  {
+                      "value": "i",
+                      "position": [
+                          19,
+                          20
+                      ]
+                  },
+                  {
+                      "value": "was",
+                      "position": [
+                          21,
+                          24
+                      ]
+                  }
+              ]
+          }
+      ]
+  }
+]
